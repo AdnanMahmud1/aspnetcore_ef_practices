@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Client_APi_Project.Data
 {
-    public class DataContext
+    public class DataContext:DbContext
     {
     }
 }
