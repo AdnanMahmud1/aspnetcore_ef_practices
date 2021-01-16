@@ -7,10 +7,12 @@ G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Cli
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Client_APi_Project.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\ref\Client_APi_Project.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Client_APi_Project.pdb
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Humanizer.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
@@ -31,12 +33,10 @@ G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Cli
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.csprojAssemblyReference.cache
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.GeneratedMSBuildEditorConfig.editorconfig
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.AssemblyInfoInputs.cache
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.AssemblyInfo.cs
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.csproj.CoreCompileInputs.cache
-G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.MvcApplicationPartsAssemblyInfo.cache
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\staticwebassets\Client_APi_Project.StaticWebAssets.Manifest.cache
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\staticwebassets\Client_APi_Project.StaticWebAssets.xml
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\scopedcss\bundle\Client_APi_Project.styles.css
@@ -46,3 +46,8 @@ G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Cli
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\ref\Client_APi_Project.dll
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.pdb
 G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.genruntimeconfig.cache
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\obj\Debug\net5.0\Client_APi_Project.csprojAssemblyReference.cache
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+G:\BitBucket Project\Learning Projects\ASPNet_Udemy\AspnetUdemy_Api_Solution\Client_APi_Project\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
