@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRgaMdK8veycDx7VzluMNyqvR4a7A+k3nwPjGEJvl/KxMIcZVxaLoAeBF1xtEv7tldi2pXjcFma9fQVa5beegw==",
+  "dgSpecHash": "L63m9xkxOUUbcW/fqZYEPTLYcwHBXuAZKYZL6JVEKIIKWgdG/PPi9Gcw0ybVJEDHPRMojvpBnzh1YNncfABueg==",
   "success": true,
-  "projectFilePath": "G:\\BitBucket Project\\Learning Projects\\ASPNet_Udemy\\AspnetUdemy_Api_Solution\\Client_APi_Project\\Client_APi_Project.csproj",
+  "projectFilePath": "G:\\BitBucket Project\\Learning Projects\\ASPNet_Udemy\\AspnetUdemy_Api_Solution\\Client_Api_Project\\Client_APi_Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adnan Mahmud\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Adnan Mahmud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
